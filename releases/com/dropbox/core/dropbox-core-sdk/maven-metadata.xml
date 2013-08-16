@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dropbox.core</groupId>
+  <artifactId>dropbox-core-sdk</artifactId>
+  <version>1.5.3</version>
+  <versioning>
+    <versions>
+      <version>1.5.3</version>
+    </versions>
+    <lastUpdated>20130816041613</lastUpdated>
+  </versioning>
+</metadata>
